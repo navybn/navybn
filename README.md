@@ -1,5 +1,8 @@
 # 💫 About Me:
-Currently working on expanding my techstack. Know front-end: HTML, CSS, Bootstrap, JavaScript and React<br>Back-end: Python and C++. Expanding knowledge on libraries and learning ML.<br><br>Also know UI/UX design specifically figma
+Currently working on learning and building projects with new languages, specifically ML. Also, learning to work with Figma for UI/UX Design. 
+Worked with:
+Front-end: HTML, CSS, Bootstrap, JavaScript and React
+Back-end: Python and C++
 
 
 # 💻 Tech Stack:
