@@ -15,7 +15,4 @@ Back-end: Python and C++
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=navybn&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=navybn&icon=0&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
