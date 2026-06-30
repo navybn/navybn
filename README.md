@@ -1,9 +1,9 @@
-<h1 align="center">⛄ Hey, I'm Navya</h1>
+<h1 align="center">Hey, I'm Navya</h1>
 ---
 
 ### ☁️ About Me
 
-- 💻 **Sophomore**, majoring in **Computer Science** + minoring in **Visual Arts**
+- 💻 **Sophomore** -- **Computer Science** major + **Visual Arts** minor
 - 🌱 I believe in clean code and clean visuals
 - 📝 Expanding my knowledge in building both **front-end** and **back-end**
 
