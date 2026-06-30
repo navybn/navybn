@@ -1,6 +1,6 @@
 ### ☁️ About Me
 
-- 💻 **Sophomore** -- **Computer Science** major + **Visual Arts** minor
+- 💻 College Sophomore -- **Computer Science** major + **Visual Arts** minor
 - 🌱 I believe in clean code and clean visuals
 - 📝 Expanding my knowledge in building both **front-end** and **back-end**
 
@@ -8,7 +8,7 @@
 
 ### Tech Stack
 
-**Languages I know:**
+Programming Languages:
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-8ACAD1?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/C++-1F66C2?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-**Currently learning:**
+Currently Learning:
 
 <p>
   <img src="https://img.shields.io/badge/Java-61A8B0?style=for-the-badge&logo=openjdk&logoColor=white"/>
