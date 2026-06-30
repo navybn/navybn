@@ -31,17 +31,3 @@
 </p>
 
 ---
-
-### What I'm Focused On Right Now
-
-```text
-class Me {
-  constructor() {
-    this.major = "Computer Science";
-    this.minor = "Visual Arts";
-    this.year = "Sophomore";
-    this.learning = ["Java", "Pandas", "NumPy"];
-    this.passion = "building things that work well AND look good";
-  }
-}
-```
