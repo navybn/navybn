@@ -1,6 +1,3 @@
-<h1 align="center">Hey, I'm Navya</h1>
----
-
 ### ☁️ About Me
 
 - 💻 **Sophomore** -- **Computer Science** major + **Visual Arts** minor
