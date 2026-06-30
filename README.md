@@ -13,12 +13,11 @@
 
 ### ☁️ About Me
 
-- 🎓 Incoming **Sophomore**, majoring in **Computer Science**, minoring in **Visual Arts**
-- 🧠 I like the overlap between **logic and design** — clean code, clean visuals
+- 🎓 Incoming **Sophomore**, majoring in **Computer Science** + minoring in **Visual Arts**
+- 🧠 I believe in clean code and clean visuals
 - 🌱 Currently learning **Java**, and leveling up my data skills with **Pandas** & **NumPy**
-- 🛠️ Comfortable building both **front-end** and **back-end**
-- 🎨 Visual Arts minor means I care about UI/UX as much as functionality
-- ⚡ Fun fact: I think good code should look as intentional as good art
+- 🛠️ Expanding my knowledge in building both **front-end** and **back-end**
+- 🎨 Visual Arts minor --> I have knowledge about UI/UX and design
 
 ---
 
@@ -51,19 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=navybn&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navybn&layout=compact&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navybn&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-</p>
-
----
-
 ### 🌱 What I'm Focused On Right Now
 
 ```text
@@ -77,13 +63,3 @@ class Me {
   }
 }
 ```
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<p align="center"><i>❄️ Always learning, always building.</i></p>
