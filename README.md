@@ -1,27 +1,15 @@
-<h1 align="center">⛄ Hey, I'm navybn</h1>
-<h3 align="center">Sophomore • CS Major • Visual Arts Minor</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8AB4F8&center=true&vCenter=true&width=600&lines=Building+things+with+code+and+a+little+bit+of+art;Currently+learning+Java%2C+Pandas+%26+NumPy;Front-end+%2B+Back-end+%2C+always+curious" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=navybn&label=Profile%20views&color=8AB4F8&style=flat" alt="profile views"/>
-</p>
-
+<h1 align="center">⛄ Hey, I'm Navya</h1>
 ---
 
 ### ☁️ About Me
 
-- 🎓 Incoming **Sophomore**, majoring in **Computer Science** + minoring in **Visual Arts**
-- 🧠 I believe in clean code and clean visuals
-- 🌱 Currently learning **Java**, and leveling up my data skills with **Pandas** & **NumPy**
-- 🛠️ Expanding my knowledge in building both **front-end** and **back-end**
-- 🎨 Visual Arts minor --> I have knowledge about UI/UX and design
+- 💻 **Sophomore**, majoring in **Computer Science** + minoring in **Visual Arts**
+- 🌱 I believe in clean code and clean visuals
+- 📝 Expanding my knowledge in building both **front-end** and **back-end**
 
 ---
 
-### 🧩 Tech Stack
+### Tech Stack
 
 **Languages I know:**
 
@@ -50,7 +38,7 @@
 
 ---
 
-### 🌱 What I'm Focused On Right Now
+### What I'm Focused On Right Now
 
 ```text
 class Me {
